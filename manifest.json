@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Better NexusMods Search",
+  "short_name": "nexusmods-better-search",
+  "description": "Converts the url of the search function on nexusmods.com with a format that remembers the search terms.",
+  "version": "1.0",
+  "minimum_chrome_version": "38",
+  "icons": { 
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png" },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://*.nexusmods.com/"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  }
+}
