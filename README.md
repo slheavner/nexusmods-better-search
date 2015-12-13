@@ -1,4 +1,7 @@
 # Nexus Mods Better Search
+## [Get in Chrome Web Store](https://chrome.google.com/webstore/detail/nexus-mods-better-search/emacnhabkogdndddklfjmnpodikgkkno?utm_source=chrome-ntp-icon)
+
+
 [MIT License](https://github.com/slheavner/nexusmods-better-search/master/license.txt)
 
 
