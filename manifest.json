@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Better NexusMods Search",
+  "name": "Nexus Mods Better Search",
   "short_name": "nexusmods-better-search",
   "description": "Converts the url of the search function on nexusmods.com with a format that remembers the search terms.",
   "version": "1.0",
